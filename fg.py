@@ -4,7 +4,6 @@ from telebot import types
 from keep_alive import keep_alive
 
 keep_alive()
-
 # Токен вашего бота от BotFather
 TOKEN = '7558450757:AAGD8hw5Ohovquir5jmIaExYSfAG1M609CE'
 # ID администратора (замените на свой Telegram ID)
